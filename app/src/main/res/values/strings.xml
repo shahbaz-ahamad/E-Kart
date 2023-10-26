@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">E-kart</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="rightAddress">The Right Address\nFor Shopping\nAnyday</string>
+    <string name="quality">It is now very easy to reach the \nbest quality among the\nproducts on the internet!</string>
+    <string name="startButtonTv">Start</string>
+    <string name="app_name1">Klien.</string>
+    <string name="registerButton">Register</string>
+    <string name="LoginButton">Login</string>
+    <string name="LetsLogin">Let\'s Login</string>
+    <string name="Dont_Have_account">Don\'t Have Account?Register Now</string>
+    <string name="already">Have Account?Login Now</string>
+    <string name="forgot">Forgot Password?</string>
+</resources>
